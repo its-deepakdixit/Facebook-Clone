@@ -3,14 +3,10 @@ A simple Netflix Clone made using [Next.js](https://nextjs.org/) ⚡
 
 Currently, I have implemented the basic UI with media details fetch functionality.
 
-
-Deployed it using vercel [here](https://nextflix-azure.vercel.app/).
-
 Please leave a ⭐ as motivation if you liked the implementation 😄
 
 
 ## Demo
-![Demo](/public/assets/demo.gif)
 <br />
 <br />
 
