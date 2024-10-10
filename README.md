@@ -5,11 +5,6 @@ Currently, I have implemented the basic UI with media details fetch functionalit
 
 Please leave a ⭐ as motivation if you liked the implementation 😄
 
-
-## Demo
-<br />
-<br />
-
 ## Built with
 * [Next.js](https://nextjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
